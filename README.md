@@ -4,7 +4,7 @@ Tudo bem?
 
 Sou estudante de Banco de dados, mas sempre busco apliar meu conhecimento na área de TI.
 
-Atualmente estou mais focada em aprender SQL,PYTHON,Linguagem R e todas as ferramentas de visualização de dados.📊
+Atualmente estou mais focada em aprender SQL Server, MySQL, Python, R e todas as ferramentas de visualização de dados.📊
 
 Gosto muito da parte de Front-end.
 

@@ -10,7 +10,7 @@ Gosto muito da parte de Front-end.
 
 <div>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=cidavelame85&show_icons=true&theme=synthwave"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cidavelame85&layout=compact&theme=synthwave"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cidavelame85&layout=compact&theme=synthwave"/>
 </div>
 
 ###💜 Let´s get connected:

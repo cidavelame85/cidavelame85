@@ -1,6 +1,4 @@
 
-  <img height="250" width="900" src="https://images.unsplash.com/photo-1585015709921-00ddf404c91e?q=80&w=1663&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
-
 ### Hello Everyone!
 
 Tudo bem?

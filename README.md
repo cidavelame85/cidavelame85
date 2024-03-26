@@ -1,4 +1,4 @@
-<img   height="400cm"  src="https://th.bing.com/th/id/OIG1.mXDW0C9VwHdJmhk_XHIC?pid=ImgGn" alt="logo com imagens da logo python">
+<img   src="https://th.bing.com/th/id/OIG1.mXDW0C9VwHdJmhk_XHIC?pid=ImgGn" alt="logo com imagens da logo python">
 
 ### Hello Everyone🌷
 

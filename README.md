@@ -15,7 +15,7 @@ Gosto muito da parte de Front-end.
   <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cidavelame85&layout=compact&theme=synthwave"/>
 </div>
 
-###💜 Let´s get connected:
+### 💜 Let´s get connected:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/futura_engenheiradedados/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)

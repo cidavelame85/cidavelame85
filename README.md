@@ -1,4 +1,7 @@
+<img   height="400cm"  src="https://th.bing.com/th/id/OIG1.mXDW0C9VwHdJmhk_XHIC?pid=ImgGn" alt="logo com imagens da logo python">
+
 ### Hello Everyone🌷
+
 Tudo bem?
 # Sejam bem vindos ao meu GitHub.😍
 
@@ -9,7 +12,7 @@ Atualmente estou mais focada em aprender SQL Server, MySQL, Python, R e todas as
 Gosto muito da parte de Front-end.
 
 <div>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=cidavelame85&show_icons=true&theme=synthwave"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=cidavelame85&show_icons=true&theme=synthwave"/>
   <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cidavelame85&layout=compact&theme=synthwave"/>
 </div>
 

@@ -1,6 +1,7 @@
-### Hello Everyone🌷
+### Hello Everyone!
 
 Tudo bem?
+
 # Sejam bem vindos ao meu GitHub.😍
 
 Sou estudante de Banco de dados, mas sempre busco apliar meu conhecimento na área de TI.

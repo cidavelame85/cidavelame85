@@ -32,6 +32,7 @@ Gosto muito da parte de Front-end.
 <img aligh="centeer" alt="sql server" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
 <img aligh="centeer" alt="mysql" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <img aligh="centeer" alt="php" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+
 <img aligh="centeer" alt="hadoop" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg"/>
 <img aligh="centeer" alt="javascript" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img aligh="centeer" alt="html" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
@@ -39,4 +40,7 @@ Gosto muito da parte de Front-end.
   
 </div>
 
+### 👀 Visits to my profile:
+
+![](https://komarev.com/ghpvc/?username=your-github-cidavelame85&color=ff69b4)
 

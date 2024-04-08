@@ -37,10 +37,6 @@ Gosto muito da parte de Front-end.
 
   </div>
 
-### 👀 Visits to my profile:
-
-![](https://komarev.com/ghpvc/?username=your-github-cidavelame85&color=ff69b4)
-
 ![Mulher estudando](https://th.bing.com/th/id/OIG4.Szru1FuLD9a1wwwTFdEj?pid=ImgGn  )
 
 

@@ -11,7 +11,7 @@ Atualmente estou mais focada em aprender SQL Server, MySQL, Python, R e todas as
 
 Gosto muito da parte de Front-end.
 
-![](https://komarev.com/ghpvc/?username=your-github-cidavelame85&color=ff69b4)
+
 <div>
   <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=cidavelame85&show_icons=true&theme=synthwave"/>
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cidavelame85&layout=compact&theme=synthwave"/>

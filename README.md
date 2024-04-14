@@ -25,7 +25,7 @@ Gosto muito da parte de Front-end.
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cidavelame)
 
 
-### 🛠 Technologies and tools I use:
+### ⚒️ Technologies and tools I use:
 
 <div>
 <img aligh="centeer" alt="python" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
